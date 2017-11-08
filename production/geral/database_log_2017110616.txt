@@ -1,0 +1,1 @@
+06/11/2017 16:37:02 Unknown column 'sstatus' in 'where clause'

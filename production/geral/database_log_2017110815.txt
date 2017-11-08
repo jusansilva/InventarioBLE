@@ -1,0 +1,4 @@
+08/11/2017 15:34:35 Duplicate entry '' for key 'mac_UNIQUE'
+08/11/2017 15:36:00 Duplicate entry '' for key 'mac_UNIQUE'
+08/11/2017 15:41:17 Duplicate entry '' for key 'mac_UNIQUE'
+08/11/2017 15:41:59 Duplicate entry '' for key 'mac_UNIQUE'
